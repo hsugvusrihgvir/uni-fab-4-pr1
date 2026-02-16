@@ -30,12 +30,6 @@ $radius-md: 12px;
   transition: transform 140ms ease, filter 140ms ease;
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 html, body {
   margin: 0;
   height: 100%;
